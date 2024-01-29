@@ -1,0 +1,24 @@
+.parent-container{  
+  border: 2px solid gray;
+  padding: 4%;
+  width: 400px;
+  text-align: center;
+  margin-top: 30%;
+
+}
+
+.parent-container input{
+  display: block;
+  width: 400px;
+  height: 40px;
+}
+
+.parent-container p{
+  color: red;
+}
+
+#Success{
+  color: green;
+  font-size: larger;
+  font-weight: 700;
+}
